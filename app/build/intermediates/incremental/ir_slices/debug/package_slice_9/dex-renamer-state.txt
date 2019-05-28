@@ -1,0 +1,4 @@
+#Wed May 15 02:13:23 EAT 2019
+base.0=/home/surafel/Desktop/working/MovieApp/Mvp/app/build/intermediates/transforms/dexMerger/debug/9
+path.0=classes.dex
+renamed.0=classes.dex

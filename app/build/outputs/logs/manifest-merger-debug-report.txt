@@ -1,0 +1,252 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/surafel/Desktop/working/personal/MovieApp/Mvp/app/src/main/AndroidManifest.xml:16:1-70:12
+INJECTED from /home/surafel/Desktop/working/personal/MovieApp/Mvp/app/src/main/AndroidManifest.xml:16:1-70:12
+INJECTED from /home/surafel/Desktop/working/personal/MovieApp/Mvp/app/src/main/AndroidManifest.xml:16:1-70:12
+INJECTED from /home/surafel/Desktop/working/personal/MovieApp/Mvp/app/src/main/AndroidManifest.xml:16:1-70:12
+MERGED from [com.amitshekhar.android:debug-db:1.0.3] /home/surafel/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.3.aar/553c983b077169c9c90b48f3aea08043/AndroidManifest.xml:20:1-40:12
+MERGED from [com.android.support:design:26.1.0] /home/surafel/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/610c8d7e8919b07b4bdf7aa71bc476a1/AndroidManifest.xml:17:1-31:12
+MERGED from [uk.co.chrisjenx:calligraphy:2.2.0] /home/surafel/.gradle/caches/transforms-1/files-1.1/calligraphy-2.2.0.aar/d5ca7484b7be9c8edef18d08d16cd8f3/AndroidManifest.xml:2:1-13:12
+MERGED from [com.amitshekhar.android:rx2-android-networking:1.0.1] /home/surafel/.gradle/caches/transforms-1/files-1.1/rx2-android-networking-1.0.1.aar/ddc2f76e2a5f1501101a8a275481b18e/AndroidManifest.xml:20:1-29:12
+MERGED from [com.amitshekhar.android:android-networking:1.0.1] /home/surafel/.gradle/caches/transforms-1/files-1.1/android-networking-1.0.1.aar/d1bc53a39918acb10bdb65b8230af06f/AndroidManifest.xml:18:1-27:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/surafel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/4c4d9960578fbb1e8ca808247685d104/AndroidManifest.xml:17:1-22:12
+MERGED from [com.mindorks:placeholderview:0.6.1] /home/surafel/.gradle/caches/transforms-1/files-1.1/placeholderview-0.6.1.aar/8b6fe84247df8717bc43550283fb7048/AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/surafel/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/bb5c1bb84db2c3161758725a836b1c3b/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/surafel/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/2a682a325b5bdf969bba8da786711720/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/surafel/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/437b4de881bd8a81b2bbe791e7539f50/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/surafel/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/d43351456a7f006f8cc706d24de69a5b/AndroidManifest.xml:17:1-22:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /home/surafel/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.1.aar/76fdafc4a32a688df03d70929be8b388/AndroidManifest.xml:15:1-21:12
+MERGED from [com.jakewharton:butterknife:8.6.0] /home/surafel/.gradle/caches/transforms-1/files-1.1/butterknife-8.6.0.aar/d61d2637685216e7d4f7fdebb592278d/AndroidManifest.xml:2:1-7:12
+MERGED from [com.jakewharton.timber:timber:4.5.1] /home/surafel/.gradle/caches/transforms-1/files-1.1/timber-4.5.1.aar/bf6c593e827f0a8e2b51ca2f816c524d/AndroidManifest.xml:2:1-10:12
+MERGED from [net.zetetic:android-database-sqlcipher:3.5.7] /home/surafel/.gradle/caches/transforms-1/files-1.1/android-database-sqlcipher-3.5.7.aar/4e3a305f415fd7789e8cf17ddc44d3ff/AndroidManifest.xml:2:1-4:12
+MERGED from [android.arch.persistence.room:runtime:1.0.0] /home/surafel/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/88a6f2d7f5374d601009f4f3b77dacc8/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:transition:26.1.0] /home/surafel/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/9c8b4205596ce5014e88b632c3f85dca/AndroidManifest.xml:17:1-28:12
+MERGED from [android.arch.persistence:db-framework:1.0.0] /home/surafel/.gradle/caches/transforms-1/files-1.1/db-framework-1.0.0.aar/2f77301cead22b75b9001f13c1b3d7fc/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.persistence:db:1.0.0] /home/surafel/.gradle/caches/transforms-1/files-1.1/db-1.0.0.aar/2229c35a3e4bb3618547384aff755713/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.core:runtime:1.0.0] /home/surafel/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/a34bb556a2261554618999ff63f58424/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:26.1.0] /home/surafel/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/076c02b6a1c0055a3694dbb23192bbd1/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/surafel/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f67fd8adc9d920f9ad6145d101c80af4/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:27.0.2] /home/surafel/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/fa4e5e3dcf0ee23a0c21429a7a935bcc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/surafel/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/548f18009c97ff03102c855b7a093764/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/surafel/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/a22522a047a978360ffa4714fb93f7fb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /home/surafel/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/023ff1bc7b0de2404690260988cb66bb/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/surafel/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/4b01e4a0c5233521d71fe341d4e0566f/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/surafel/Desktop/working/personal/MovieApp/Mvp/app/src/main/AndroidManifest.xml:16:1-70:12
+INJECTED from /home/surafel/Desktop/working/personal/MovieApp/Mvp/app/src/main/AndroidManifest.xml:16:1-70:12
+INJECTED from /home/surafel/Desktop/working/personal/MovieApp/Mvp/app/src/main/AndroidManifest.xml:16:1-70:12
+	package
+		ADDED from /home/surafel/Desktop/working/personal/MovieApp/Mvp/app/src/main/AndroidManifest.xml:17:5-30
+		INJECTED from /home/surafel/Desktop/working/personal/MovieApp/Mvp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/surafel/Desktop/working/personal/MovieApp/Mvp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/surafel/Desktop/working/personal/MovieApp/Mvp/app/src/main/AndroidManifest.xml
+		ADDED from /home/surafel/Desktop/working/personal/MovieApp/Mvp/app/src/main/AndroidManifest.xml:16:1-70:12
+		INJECTED from /home/surafel/Desktop/working/personal/MovieApp/Mvp/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/surafel/Desktop/working/personal/MovieApp/Mvp/app/src/main/AndroidManifest.xml
+		ADDED from /home/surafel/Desktop/working/personal/MovieApp/Mvp/app/src/main/AndroidManifest.xml:16:1-70:12
+		INJECTED from /home/surafel/Desktop/working/personal/MovieApp/Mvp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/surafel/Desktop/working/personal/MovieApp/Mvp/app/src/main/AndroidManifest.xml:16:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/surafel/Desktop/working/personal/MovieApp/Mvp/app/src/main/AndroidManifest.xml:19:5-67
+MERGED from [com.amitshekhar.android:debug-db:1.0.3] /home/surafel/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.3.aar/553c983b077169c9c90b48f3aea08043/AndroidManifest.xml:29:5-67
+MERGED from [com.amitshekhar.android:debug-db:1.0.3] /home/surafel/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.3.aar/553c983b077169c9c90b48f3aea08043/AndroidManifest.xml:29:5-67
+	android:name
+		ADDED from /home/surafel/Desktop/working/personal/MovieApp/Mvp/app/src/main/AndroidManifest.xml:19:22-64
+application
+ADDED from /home/surafel/Desktop/working/personal/MovieApp/Mvp/app/src/main/AndroidManifest.xml:21:5-68:19
+MERGED from [com.amitshekhar.android:debug-db:1.0.3] /home/surafel/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.3.aar/553c983b077169c9c90b48f3aea08043/AndroidManifest.xml:32:5-38:19
+MERGED from [com.amitshekhar.android:debug-db:1.0.3] /home/surafel/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.3.aar/553c983b077169c9c90b48f3aea08043/AndroidManifest.xml:32:5-38:19
+MERGED from [com.android.support:design:26.1.0] /home/surafel/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/610c8d7e8919b07b4bdf7aa71bc476a1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] /home/surafel/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/610c8d7e8919b07b4bdf7aa71bc476a1/AndroidManifest.xml:25:5-29:19
+MERGED from [uk.co.chrisjenx:calligraphy:2.2.0] /home/surafel/.gradle/caches/transforms-1/files-1.1/calligraphy-2.2.0.aar/d5ca7484b7be9c8edef18d08d16cd8f3/AndroidManifest.xml:11:5-20
+MERGED from [uk.co.chrisjenx:calligraphy:2.2.0] /home/surafel/.gradle/caches/transforms-1/files-1.1/calligraphy-2.2.0.aar/d5ca7484b7be9c8edef18d08d16cd8f3/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/surafel/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/bb5c1bb84db2c3161758725a836b1c3b/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/surafel/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/bb5c1bb84db2c3161758725a836b1c3b/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/surafel/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/2a682a325b5bdf969bba8da786711720/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/surafel/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/2a682a325b5bdf969bba8da786711720/AndroidManifest.xml:22:5-26:19
+MERGED from [com.jakewharton.timber:timber:4.5.1] /home/surafel/.gradle/caches/transforms-1/files-1.1/timber-4.5.1.aar/bf6c593e827f0a8e2b51ca2f816c524d/AndroidManifest.xml:8:5-20
+MERGED from [com.jakewharton.timber:timber:4.5.1] /home/surafel/.gradle/caches/transforms-1/files-1.1/timber-4.5.1.aar/bf6c593e827f0a8e2b51ca2f816c524d/AndroidManifest.xml:8:5-20
+MERGED from [com.android.support:transition:26.1.0] /home/surafel/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/9c8b4205596ce5014e88b632c3f85dca/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /home/surafel/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/9c8b4205596ce5014e88b632c3f85dca/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/surafel/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/076c02b6a1c0055a3694dbb23192bbd1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/surafel/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/076c02b6a1c0055a3694dbb23192bbd1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/surafel/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f67fd8adc9d920f9ad6145d101c80af4/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/surafel/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f67fd8adc9d920f9ad6145d101c80af4/AndroidManifest.xml:25:5-29:19
+	android:supportsRtl
+		ADDED from /home/surafel/Desktop/working/personal/MovieApp/Mvp/app/src/main/AndroidManifest.xml:26:9-35
+	android:label
+		ADDED from /home/surafel/Desktop/working/personal/MovieApp/Mvp/app/src/main/AndroidManifest.xml:25:9-41
+	android:icon
+		ADDED from /home/surafel/Desktop/working/personal/MovieApp/Mvp/app/src/main/AndroidManifest.xml:24:9-43
+	android:allowBackup
+		ADDED from /home/surafel/Desktop/working/personal/MovieApp/Mvp/app/src/main/AndroidManifest.xml:23:9-35
+	android:theme
+		ADDED from /home/surafel/Desktop/working/personal/MovieApp/Mvp/app/src/main/AndroidManifest.xml:27:9-40
+	android:name
+		ADDED from /home/surafel/Desktop/working/personal/MovieApp/Mvp/app/src/main/AndroidManifest.xml:22:9-46
+service#com.surafel.mvp.service.SyncService
+ADDED from /home/surafel/Desktop/working/personal/MovieApp/Mvp/app/src/main/AndroidManifest.xml:29:9-56
+	android:name
+		ADDED from /home/surafel/Desktop/working/personal/MovieApp/Mvp/app/src/main/AndroidManifest.xml:29:18-53
+activity#com.surafel.mvp.ui.splash.SplashActivity
+ADDED from /home/surafel/Desktop/working/personal/MovieApp/Mvp/app/src/main/AndroidManifest.xml:31:9-40:20
+	android:screenOrientation
+		ADDED from /home/surafel/Desktop/working/personal/MovieApp/Mvp/app/src/main/AndroidManifest.xml:34:13-49
+	android:launchMode
+		ADDED from /home/surafel/Desktop/working/personal/MovieApp/Mvp/app/src/main/AndroidManifest.xml:33:13-43
+	android:theme
+		ADDED from /home/surafel/Desktop/working/personal/MovieApp/Mvp/app/src/main/AndroidManifest.xml:35:13-54
+	android:name
+		ADDED from /home/surafel/Desktop/working/personal/MovieApp/Mvp/app/src/main/AndroidManifest.xml:32:13-68
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/surafel/Desktop/working/personal/MovieApp/Mvp/app/src/main/AndroidManifest.xml:36:13-39:29
+action#android.intent.action.MAIN
+ADDED from /home/surafel/Desktop/working/personal/MovieApp/Mvp/app/src/main/AndroidManifest.xml:37:17-69
+	android:name
+		ADDED from /home/surafel/Desktop/working/personal/MovieApp/Mvp/app/src/main/AndroidManifest.xml:37:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/surafel/Desktop/working/personal/MovieApp/Mvp/app/src/main/AndroidManifest.xml:38:17-77
+	android:name
+		ADDED from /home/surafel/Desktop/working/personal/MovieApp/Mvp/app/src/main/AndroidManifest.xml:38:27-74
+activity#com.surafel.mvp.ui.login.LoginActivity
+ADDED from /home/surafel/Desktop/working/personal/MovieApp/Mvp/app/src/main/AndroidManifest.xml:42:9-45:52
+	android:screenOrientation
+		ADDED from /home/surafel/Desktop/working/personal/MovieApp/Mvp/app/src/main/AndroidManifest.xml:45:13-49
+	android:launchMode
+		ADDED from /home/surafel/Desktop/working/personal/MovieApp/Mvp/app/src/main/AndroidManifest.xml:44:13-43
+	android:name
+		ADDED from /home/surafel/Desktop/working/personal/MovieApp/Mvp/app/src/main/AndroidManifest.xml:43:13-66
+activity#com.surafel.mvp.ui.main.MainActivity
+ADDED from /home/surafel/Desktop/working/personal/MovieApp/Mvp/app/src/main/AndroidManifest.xml:47:9-50:52
+	android:screenOrientation
+		ADDED from /home/surafel/Desktop/working/personal/MovieApp/Mvp/app/src/main/AndroidManifest.xml:50:13-49
+	android:launchMode
+		ADDED from /home/surafel/Desktop/working/personal/MovieApp/Mvp/app/src/main/AndroidManifest.xml:49:13-43
+	android:name
+		ADDED from /home/surafel/Desktop/working/personal/MovieApp/Mvp/app/src/main/AndroidManifest.xml:48:13-64
+activity#com.surafel.mvp.ui.movie.MovieActivity
+ADDED from /home/surafel/Desktop/working/personal/MovieApp/Mvp/app/src/main/AndroidManifest.xml:51:9-54:52
+	android:screenOrientation
+		ADDED from /home/surafel/Desktop/working/personal/MovieApp/Mvp/app/src/main/AndroidManifest.xml:54:13-49
+	android:launchMode
+		ADDED from /home/surafel/Desktop/working/personal/MovieApp/Mvp/app/src/main/AndroidManifest.xml:53:13-43
+	android:name
+		ADDED from /home/surafel/Desktop/working/personal/MovieApp/Mvp/app/src/main/AndroidManifest.xml:52:13-66
+activity#com.surafel.mvp.ui.feed.FeedActivity
+ADDED from /home/surafel/Desktop/working/personal/MovieApp/Mvp/app/src/main/AndroidManifest.xml:56:9-66:20
+	android:screenOrientation
+		ADDED from /home/surafel/Desktop/working/personal/MovieApp/Mvp/app/src/main/AndroidManifest.xml:60:13-49
+	android:parentActivityName
+		ADDED from /home/surafel/Desktop/working/personal/MovieApp/Mvp/app/src/main/AndroidManifest.xml:59:13-63
+	android:launchMode
+		ADDED from /home/surafel/Desktop/working/personal/MovieApp/Mvp/app/src/main/AndroidManifest.xml:58:13-43
+	android:name
+		ADDED from /home/surafel/Desktop/working/personal/MovieApp/Mvp/app/src/main/AndroidManifest.xml:57:13-64
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /home/surafel/Desktop/working/personal/MovieApp/Mvp/app/src/main/AndroidManifest.xml:63:13-65:57
+	android:value
+		ADDED from /home/surafel/Desktop/working/personal/MovieApp/Mvp/app/src/main/AndroidManifest.xml:65:17-54
+	android:name
+		ADDED from /home/surafel/Desktop/working/personal/MovieApp/Mvp/app/src/main/AndroidManifest.xml:64:17-63
+uses-sdk
+INJECTED from /home/surafel/Desktop/working/personal/MovieApp/Mvp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/surafel/Desktop/working/personal/MovieApp/Mvp/app/src/main/AndroidManifest.xml
+INJECTED from /home/surafel/Desktop/working/personal/MovieApp/Mvp/app/src/main/AndroidManifest.xml
+MERGED from [com.amitshekhar.android:debug-db:1.0.3] /home/surafel/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.3.aar/553c983b077169c9c90b48f3aea08043/AndroidManifest.xml:25:5-27:41
+MERGED from [com.amitshekhar.android:debug-db:1.0.3] /home/surafel/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.3.aar/553c983b077169c9c90b48f3aea08043/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:design:26.1.0] /home/surafel/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/610c8d7e8919b07b4bdf7aa71bc476a1/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] /home/surafel/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/610c8d7e8919b07b4bdf7aa71bc476a1/AndroidManifest.xml:21:5-23:62
+MERGED from [uk.co.chrisjenx:calligraphy:2.2.0] /home/surafel/.gradle/caches/transforms-1/files-1.1/calligraphy-2.2.0.aar/d5ca7484b7be9c8edef18d08d16cd8f3/AndroidManifest.xml:7:5-9:41
+MERGED from [uk.co.chrisjenx:calligraphy:2.2.0] /home/surafel/.gradle/caches/transforms-1/files-1.1/calligraphy-2.2.0.aar/d5ca7484b7be9c8edef18d08d16cd8f3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.amitshekhar.android:rx2-android-networking:1.0.1] /home/surafel/.gradle/caches/transforms-1/files-1.1/rx2-android-networking-1.0.1.aar/ddc2f76e2a5f1501101a8a275481b18e/AndroidManifest.xml:25:5-27:41
+MERGED from [com.amitshekhar.android:rx2-android-networking:1.0.1] /home/surafel/.gradle/caches/transforms-1/files-1.1/rx2-android-networking-1.0.1.aar/ddc2f76e2a5f1501101a8a275481b18e/AndroidManifest.xml:25:5-27:41
+MERGED from [com.amitshekhar.android:android-networking:1.0.1] /home/surafel/.gradle/caches/transforms-1/files-1.1/android-networking-1.0.1.aar/d1bc53a39918acb10bdb65b8230af06f/AndroidManifest.xml:23:5-25:41
+MERGED from [com.amitshekhar.android:android-networking:1.0.1] /home/surafel/.gradle/caches/transforms-1/files-1.1/android-networking-1.0.1.aar/d1bc53a39918acb10bdb65b8230af06f/AndroidManifest.xml:23:5-25:41
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/surafel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/4c4d9960578fbb1e8ca808247685d104/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/surafel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/4c4d9960578fbb1e8ca808247685d104/AndroidManifest.xml:20:5-44
+MERGED from [com.mindorks:placeholderview:0.6.1] /home/surafel/.gradle/caches/transforms-1/files-1.1/placeholderview-0.6.1.aar/8b6fe84247df8717bc43550283fb7048/AndroidManifest.xml:8:5-10:41
+MERGED from [com.mindorks:placeholderview:0.6.1] /home/surafel/.gradle/caches/transforms-1/files-1.1/placeholderview-0.6.1.aar/8b6fe84247df8717bc43550283fb7048/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/surafel/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/bb5c1bb84db2c3161758725a836b1c3b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/surafel/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/bb5c1bb84db2c3161758725a836b1c3b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/surafel/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/2a682a325b5bdf969bba8da786711720/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/surafel/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/2a682a325b5bdf969bba8da786711720/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/surafel/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/437b4de881bd8a81b2bbe791e7539f50/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/surafel/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/437b4de881bd8a81b2bbe791e7539f50/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/surafel/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/d43351456a7f006f8cc706d24de69a5b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/surafel/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/d43351456a7f006f8cc706d24de69a5b/AndroidManifest.xml:20:5-44
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /home/surafel/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.1.aar/76fdafc4a32a688df03d70929be8b388/AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /home/surafel/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.1.aar/76fdafc4a32a688df03d70929be8b388/AndroidManifest.xml:19:5-43
+MERGED from [com.jakewharton:butterknife:8.6.0] /home/surafel/.gradle/caches/transforms-1/files-1.1/butterknife-8.6.0.aar/d61d2637685216e7d4f7fdebb592278d/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.6.0] /home/surafel/.gradle/caches/transforms-1/files-1.1/butterknife-8.6.0.aar/d61d2637685216e7d4f7fdebb592278d/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton.timber:timber:4.5.1] /home/surafel/.gradle/caches/transforms-1/files-1.1/timber-4.5.1.aar/bf6c593e827f0a8e2b51ca2f816c524d/AndroidManifest.xml:6:5-43
+MERGED from [com.jakewharton.timber:timber:4.5.1] /home/surafel/.gradle/caches/transforms-1/files-1.1/timber-4.5.1.aar/bf6c593e827f0a8e2b51ca2f816c524d/AndroidManifest.xml:6:5-43
+MERGED from [net.zetetic:android-database-sqlcipher:3.5.7] /home/surafel/.gradle/caches/transforms-1/files-1.1/android-database-sqlcipher-3.5.7.aar/4e3a305f415fd7789e8cf17ddc44d3ff/AndroidManifest.xml:3:3-40
+MERGED from [net.zetetic:android-database-sqlcipher:3.5.7] /home/surafel/.gradle/caches/transforms-1/files-1.1/android-database-sqlcipher-3.5.7.aar/4e3a305f415fd7789e8cf17ddc44d3ff/AndroidManifest.xml:3:3-40
+MERGED from [android.arch.persistence.room:runtime:1.0.0] /home/surafel/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/88a6f2d7f5374d601009f4f3b77dacc8/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence.room:runtime:1.0.0] /home/surafel/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/88a6f2d7f5374d601009f4f3b77dacc8/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:transition:26.1.0] /home/surafel/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/9c8b4205596ce5014e88b632c3f85dca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /home/surafel/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/9c8b4205596ce5014e88b632c3f85dca/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.0.0] /home/surafel/.gradle/caches/transforms-1/files-1.1/db-framework-1.0.0.aar/2f77301cead22b75b9001f13c1b3d7fc/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db-framework:1.0.0] /home/surafel/.gradle/caches/transforms-1/files-1.1/db-framework-1.0.0.aar/2f77301cead22b75b9001f13c1b3d7fc/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db:1.0.0] /home/surafel/.gradle/caches/transforms-1/files-1.1/db-1.0.0.aar/2229c35a3e4bb3618547384aff755713/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db:1.0.0] /home/surafel/.gradle/caches/transforms-1/files-1.1/db-1.0.0.aar/2229c35a3e4bb3618547384aff755713/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.core:runtime:1.0.0] /home/surafel/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/a34bb556a2261554618999ff63f58424/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.core:runtime:1.0.0] /home/surafel/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/a34bb556a2261554618999ff63f58424/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:support-v4:26.1.0] /home/surafel/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/076c02b6a1c0055a3694dbb23192bbd1/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /home/surafel/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/076c02b6a1c0055a3694dbb23192bbd1/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/surafel/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f67fd8adc9d920f9ad6145d101c80af4/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/surafel/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f67fd8adc9d920f9ad6145d101c80af4/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:27.0.2] /home/surafel/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/fa4e5e3dcf0ee23a0c21429a7a935bcc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /home/surafel/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/fa4e5e3dcf0ee23a0c21429a7a935bcc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/surafel/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/548f18009c97ff03102c855b7a093764/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/surafel/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/548f18009c97ff03102c855b7a093764/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/surafel/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/a22522a047a978360ffa4714fb93f7fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/surafel/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/a22522a047a978360ffa4714fb93f7fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /home/surafel/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/023ff1bc7b0de2404690260988cb66bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /home/surafel/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/023ff1bc7b0de2404690260988cb66bb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/surafel/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/4b01e4a0c5233521d71fe341d4e0566f/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/surafel/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/4b01e4a0c5233521d71fe341d4e0566f/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/surafel/Desktop/working/personal/MovieApp/Mvp/app/src/main/AndroidManifest.xml
+INJECTED from /home/surafel/Desktop/working/personal/MovieApp/Mvp/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] /home/surafel/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/610c8d7e8919b07b4bdf7aa71bc476a1/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/surafel/Desktop/working/personal/MovieApp/Mvp/app/src/main/AndroidManifest.xml
+		ADDED from /home/surafel/Desktop/working/personal/MovieApp/Mvp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/surafel/Desktop/working/personal/MovieApp/Mvp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/surafel/Desktop/working/personal/MovieApp/Mvp/app/src/main/AndroidManifest.xml
+		ADDED from /home/surafel/Desktop/working/personal/MovieApp/Mvp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/surafel/Desktop/working/personal/MovieApp/Mvp/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.amitshekhar.android:debug-db:1.0.3] /home/surafel/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.3.aar/553c983b077169c9c90b48f3aea08043/AndroidManifest.xml:30:5-76
+	android:name
+		ADDED from [com.amitshekhar.android:debug-db:1.0.3] /home/surafel/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.3.aar/553c983b077169c9c90b48f3aea08043/AndroidManifest.xml:30:22-73
+provider#com.amitshekhar.DebugDBInitProvider
+ADDED from [com.amitshekhar.android:debug-db:1.0.3] /home/surafel/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.3.aar/553c983b077169c9c90b48f3aea08043/AndroidManifest.xml:33:9-37:40
+	android:enabled
+		ADDED from [com.amitshekhar.android:debug-db:1.0.3] /home/surafel/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.3.aar/553c983b077169c9c90b48f3aea08043/AndroidManifest.xml:36:13-35
+	android:authorities
+		ADDED from [com.amitshekhar.android:debug-db:1.0.3] /home/surafel/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.3.aar/553c983b077169c9c90b48f3aea08043/AndroidManifest.xml:35:13-71
+	android:exported
+		ADDED from [com.amitshekhar.android:debug-db:1.0.3] /home/surafel/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.3.aar/553c983b077169c9c90b48f3aea08043/AndroidManifest.xml:37:13-37
+	android:name
+		ADDED from [com.amitshekhar.android:debug-db:1.0.3] /home/surafel/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.3.aar/553c983b077169c9c90b48f3aea08043/AndroidManifest.xml:34:13-63
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] /home/surafel/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/610c8d7e8919b07b4bdf7aa71bc476a1/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/surafel/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/bb5c1bb84db2c3161758725a836b1c3b/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/surafel/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/bb5c1bb84db2c3161758725a836b1c3b/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/surafel/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/2a682a325b5bdf969bba8da786711720/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/surafel/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/2a682a325b5bdf969bba8da786711720/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /home/surafel/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/9c8b4205596ce5014e88b632c3f85dca/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /home/surafel/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/9c8b4205596ce5014e88b632c3f85dca/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/surafel/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/076c02b6a1c0055a3694dbb23192bbd1/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/surafel/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/076c02b6a1c0055a3694dbb23192bbd1/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/surafel/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f67fd8adc9d920f9ad6145d101c80af4/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/surafel/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f67fd8adc9d920f9ad6145d101c80af4/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] /home/surafel/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/610c8d7e8919b07b4bdf7aa71bc476a1/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] /home/surafel/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/610c8d7e8919b07b4bdf7aa71bc476a1/AndroidManifest.xml:27:13-51
